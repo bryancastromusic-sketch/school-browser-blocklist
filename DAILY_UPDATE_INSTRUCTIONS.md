@@ -19,7 +19,6 @@ Add a site only if you are confident its **main purpose** is one of these (use t
 - Sites already in School Browser's built-in list (the validator checks this).
 - Anything you aren't sure about. Missing a site for a day is fine; blocking a legitimate school site is not.
 - Never remove or edit existing entries. Unblocking is the teacher's decision (dashboard).
-- Never change anything in the `docs/` folder (it only redirects the old dashboard address).
 - Start each run with `git fetch origin && git reset --hard origin/main` (the history of this project was rewritten once, so a plain `git pull` may fail).
 
 ## How to find candidates (spend at most ~20 minutes)
