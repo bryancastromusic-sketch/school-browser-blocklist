@@ -8,10 +8,12 @@ const CATEGORIES = ['ai-chatbot', 'ai-writing', 'ai-humanizer', 'ai-homework', '
 
 const readJSON = (f) => JSON.parse(fs.readFileSync(path.join(ROOT, f), 'utf8'));
 const host = (site) => site.split('/')[0];
-// true when blocking `site` would also block the protected host `p`
+// true when blocking `site` would hit the protected site `p`: the same site, a parent
+// of it, or a sub-site of it (unless `p` starts with "www.", which means just that site).
 function hitsProtected(site, p) {
-  const h = host(site);
-  const ph = host(p);
-  return h === ph || ph.endsWith('.' + h);
+  const h = host(site).replace(/^www\./, '');
+  const ph = host(p).replace(/^www\./, '');
+  const coversSubSites = !p.startsWith('www.');
+  return h === ph || ph.endsWith('.' + h) || (coversSubSites && h.endsWith('.' + ph));
 }
 module.exports = { ROOT, SITE_RE, CATEGORIES, readJSON, host, hitsProtected };
