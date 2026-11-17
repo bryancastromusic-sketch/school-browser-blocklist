@@ -2,9 +2,29 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 12
-- **Last updated:** Nov 16, 2026, 8:01 PM Eastern
+- **Sites added so far:** 25
+- **Last updated:** Nov 17, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Tuesday, November 17, 2026
+
+Checked 24 candidates; added 13 humanizers, paraphrasers, a math solver, DeepAI and two school-filter proxies; skipped Paperpal, AI Blaze, Khan Academy (general/learning tools), Rephrasely, Humanizer.org, Tenorshare, Mathly and LearnFast (couldn't confirm domain), and Gauth, Photomath, Chegg, Wordtune, Undetectable AI (already built in).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `phrasly.ai` | AI "humanizer" | Phrasly: AI humanizer advertised as built to bypass the toughest AI detectors |
+| `passme.ai` | AI "humanizer" | PassMe AI: AI 'bypasser' that rewrites AI text to get past detectors like GPTZero |
+| `humanizeai.tech` | AI "humanizer" | Free AI humanizer that rewrites AI text to avoid AI detection |
+| `gpthuman-ai-humanizer.hf.space` | AI "humanizer" | Free copy of the GPTHuman AI humanizer hosted on Hugging Face Spaces |
+| `notegpt.io/bypass-ai` | AI "humanizer" | NoteGPT's 'Bypass AI' page: rewrites AI text to pass Turnitin/GPTZero (rest of site not blocked) |
+| `paraphraser.io` | AI writing tool | AI paraphrasing and article rewriter tool marketed to students |
+| `wordfixerbot.com` | AI writing tool | WordfixerBot: AI paraphraser and rewriter |
+| `rewording.io` | AI writing tool | Free AI paraphrasing tool that rewords text to avoid plagiarism detection |
+| `rephraser.co` | AI writing tool | AI paraphraser with AI humanizer and 'plagiarism remover' features |
+| `mymathsolver.ai` | AI homework helper | AI math solver: type or photograph a problem and get the worked answer |
+| `deepai.org` | AI chatbot | DeepAI: AI chatbot, image and video generator site |
+| `canlite.org` | Filter bypass / proxy | Canlite: web proxy promoted for getting around GoGuardian/Lightspeed on school Chromebooks |
+| `proxysite.com` | Filter bypass / proxy | ProxySite: free web proxy widely promoted for getting around school filters |
 
 ## Monday, November 16, 2026
 

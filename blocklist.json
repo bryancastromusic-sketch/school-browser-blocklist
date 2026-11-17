@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17T01:01:30Z",
+  "updated": "2026-11-17T10:38:58Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -73,6 +73,84 @@
       "reason": "DuckDuckGo AI chat page (same as duck.ai); search itself stays unblocked",
       "added": "2026-11-16",
       "category": "ai-chatbot"
+    },
+    {
+      "site": "phrasly.ai",
+      "reason": "Phrasly: AI humanizer advertised as built to bypass the toughest AI detectors",
+      "added": "2026-11-17",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "passme.ai",
+      "reason": "PassMe AI: AI 'bypasser' that rewrites AI text to get past detectors like GPTZero",
+      "added": "2026-11-17",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "humanizeai.tech",
+      "reason": "Free AI humanizer that rewrites AI text to avoid AI detection",
+      "added": "2026-11-17",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "gpthuman-ai-humanizer.hf.space",
+      "reason": "Free copy of the GPTHuman AI humanizer hosted on Hugging Face Spaces",
+      "added": "2026-11-17",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "notegpt.io/bypass-ai",
+      "reason": "NoteGPT's 'Bypass AI' page: rewrites AI text to pass Turnitin/GPTZero (rest of site not blocked)",
+      "added": "2026-11-17",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "paraphraser.io",
+      "reason": "AI paraphrasing and article rewriter tool marketed to students",
+      "added": "2026-11-17",
+      "category": "ai-writing"
+    },
+    {
+      "site": "wordfixerbot.com",
+      "reason": "WordfixerBot: AI paraphraser and rewriter",
+      "added": "2026-11-17",
+      "category": "ai-writing"
+    },
+    {
+      "site": "rewording.io",
+      "reason": "Free AI paraphrasing tool that rewords text to avoid plagiarism detection",
+      "added": "2026-11-17",
+      "category": "ai-writing"
+    },
+    {
+      "site": "rephraser.co",
+      "reason": "AI paraphraser with AI humanizer and 'plagiarism remover' features",
+      "added": "2026-11-17",
+      "category": "ai-writing"
+    },
+    {
+      "site": "mymathsolver.ai",
+      "reason": "AI math solver: type or photograph a problem and get the worked answer",
+      "added": "2026-11-17",
+      "category": "ai-homework"
+    },
+    {
+      "site": "deepai.org",
+      "reason": "DeepAI: AI chatbot, image and video generator site",
+      "added": "2026-11-17",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "canlite.org",
+      "reason": "Canlite: web proxy promoted for getting around GoGuardian/Lightspeed on school Chromebooks",
+      "added": "2026-11-17",
+      "category": "filter-bypass"
+    },
+    {
+      "site": "proxysite.com",
+      "reason": "ProxySite: free web proxy widely promoted for getting around school filters",
+      "added": "2026-11-17",
+      "category": "filter-bypass"
     }
   ]
 }

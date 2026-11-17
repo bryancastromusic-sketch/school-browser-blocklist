@@ -4,6 +4,11 @@
       "date": "2026-11-16",
       "added": 12,
       "note": "Checked 25 candidates; added 12 AI humanizers, essay writers, homework solvers and Duck.ai; skipped Paperguide, Paperpal, NoteGPT, Grammarly, AI Blaze (general or research tools), Brave/Andi (search engines), Edubrain, Thetawise, UndetectedGPT and OpenAI dots (couldn't confirm site/domain), and Undetectable AI, StealthGPT, StealthWriter, QuillBot, Photomath (already built in)."
+    },
+    {
+      "date": "2026-11-17",
+      "added": 13,
+      "note": "Checked 24 candidates; added 13 humanizers, paraphrasers, a math solver, DeepAI and two school-filter proxies; skipped Paperpal, AI Blaze, Khan Academy (general/learning tools), Rephrasely, Humanizer.org, Tenorshare, Mathly and LearnFast (couldn't confirm domain), and Gauth, Photomath, Chegg, Wordtune, Undetectable AI (already built in)."
     }
   ]
 }
