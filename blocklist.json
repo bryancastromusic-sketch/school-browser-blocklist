@@ -1,5 +1,78 @@
 {
   "version": 1,
-  "updated": null,
-  "sites": []
+  "updated": "2026-11-17T01:01:30Z",
+  "sites": [
+    {
+      "site": "writehuman.ai",
+      "reason": "AI humanizer that rewrites AI-written text so it gets past AI detectors like Turnitin",
+      "added": "2026-11-16",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "gpthuman.ai",
+      "reason": "AI humanizer advertising a 'Stealth Score' and high pass rates against AI detectors",
+      "added": "2026-11-16",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "walterwrites.ai",
+      "reason": "Walter Writes: AI humanizer marketed to make AI text score as human on AI detectors",
+      "added": "2026-11-16",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "solvely.ai",
+      "reason": "AI homework solver: upload a photo of a problem and get a step-by-step answer",
+      "added": "2026-11-16",
+      "category": "ai-homework"
+    },
+    {
+      "site": "quizard.ai",
+      "reason": "Quizard AI: 'scan and solve' answer app; snap a photo of a question and get the solution",
+      "added": "2026-11-16",
+      "category": "ai-homework"
+    },
+    {
+      "site": "litero.ai",
+      "reason": "AI academic essay writer with outline/draft generation and a built-in humanizer",
+      "added": "2026-11-16",
+      "category": "ai-writing"
+    },
+    {
+      "site": "writeless.ai",
+      "reason": "AI essay writer that generates full essays and papers from a short prompt",
+      "added": "2026-11-16",
+      "category": "ai-writing"
+    },
+    {
+      "site": "samwell.ai",
+      "reason": "AI essay writer that generates academic essays in seconds",
+      "added": "2026-11-16",
+      "category": "ai-writing"
+    },
+    {
+      "site": "myessaywriter.ai",
+      "reason": "AI essay writer that produces full academic essay drafts",
+      "added": "2026-11-16",
+      "category": "ai-writing"
+    },
+    {
+      "site": "jenni.ai",
+      "reason": "Jenni AI: AI essay writer with autocomplete, paragraph generator and paraphraser",
+      "added": "2026-11-16",
+      "category": "ai-writing"
+    },
+    {
+      "site": "duck.ai",
+      "reason": "DuckDuckGo's free AI chat (GPT, Claude, Llama, etc.) with no account needed",
+      "added": "2026-11-16",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "duckduckgo.com/chat",
+      "reason": "DuckDuckGo AI chat page (same as duck.ai); search itself stays unblocked",
+      "added": "2026-11-16",
+      "category": "ai-chatbot"
+    }
+  ]
 }

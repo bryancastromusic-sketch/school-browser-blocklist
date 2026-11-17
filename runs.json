@@ -1,1 +1,9 @@
-{ "runs": [] }
+{
+  "runs": [
+    {
+      "date": "2026-11-16",
+      "added": 12,
+      "note": "Checked 25 candidates; added 12 AI humanizers, essay writers, homework solvers and Duck.ai; skipped Paperguide, Paperpal, NoteGPT, Grammarly, AI Blaze (general or research tools), Brave/Andi (search engines), Edubrain, Thetawise, UndetectedGPT and OpenAI dots (couldn't confirm site/domain), and Undetectable AI, StealthGPT, StealthWriter, QuillBot, Photomath (already built in)."
+    }
+  ]
+}
