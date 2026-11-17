@@ -1,0 +1,14 @@
+{
+  "_about": "Sites the daily update must never block (or block a parent of). School Browser has its own copy in config.json (neverBlockSites), which is what actually protects students' browsers.",
+  "sites": [
+    "www.google.com", "accounts.google.com", "docs.google.com", "drive.google.com", "classroom.google.com",
+    "forms.google.com", "sites.google.com", "meet.google.com", "calendar.google.com", "mail.google.com",
+    "www.youtube.com", "youtu.be",
+    "teams.microsoft.com", "teams.cloud.microsoft", "teams.live.com", "m365.cloud.microsoft", "www.office.com", "office.com",
+    "word.cloud.microsoft", "outlook.office.com", "onedrive.live.com", "officeapps.live.com", "sharepoint.com",
+    "login.microsoftonline.com", "login.live.com", "login.microsoft.com", "www.microsoft.com", "www.bing.com",
+    "clever.com", "www.khanacademy.org", "wikipedia.org", "www.desmos.com", "www.britannica.com",
+    "github.com", "raw.githubusercontent.com",
+    "firebaseio.com", "firebasedatabase.app", "identitytoolkit.googleapis.com", "securetoken.googleapis.com"
+  ]
+}
