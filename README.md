@@ -13,6 +13,7 @@ This list is updated automatically every morning (about 5:37 AM Eastern) with ne
 | `REPORT.md` | Readable daily report (generated) |
 | `runs.json` | One line per daily run, including days with no additions |
 | `protected.json` | Sites the update must never block |
+| `builtin.json` | Copy of School Browser's built-in list (already blocked; the update skips these) |
 | `DAILY_UPDATE_INSTRUCTIONS.md` | What the automated update does and how |
 | `tools/validate.js` | Refuses unsafe changes (removals, protected sites, bad entries, too many at once) |
 | `tools/build-report.js` | Rebuilds `REPORT.md` |

@@ -33,7 +33,7 @@ Add a site only if you are confident its **main purpose** is one of these (use t
    - `added`: today's date in US Eastern time.
 2. Set `"updated"` to the current time (ISO 8601, e.g. `2026-11-17T10:37:00Z`).
 3. Append today's run to `runs.json` → `runs`: `{ "date": "YYYY-MM-DD", "added": N, "note": "one sentence, e.g. 'Checked 14 candidates; skipped Canva Magic Write (general design site).'" }`. Add the run entry even when nothing was added.
-4. Run `node tools/validate.js --builtin <path to school-browser/config.json>` (clone `bryancastromusic-sketch/school-browser` with depth 1 to get it, or use `/home/user/school-browser/config.json` if present). If it says NOT OK, fix the problem or drop that site, and run it again. **Never commit if it says NOT OK.**
+4. Run `node tools/validate.js` (it reads School Browser's built-in list from `builtin.json`). If it says NOT OK, fix the problem or drop that site, and run it again. **Never commit if it says NOT OK.**
 5. Run `node tools/build-report.js` to refresh `REPORT.md`.
 6. Commit to `main` with a message like `Daily update 2026-11-17: 2 sites added` and push.
 

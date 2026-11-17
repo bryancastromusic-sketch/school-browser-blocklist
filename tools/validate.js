@@ -10,9 +10,11 @@ let list;
 try { list = readJSON('blocklist.json'); } catch (e) { console.error('blocklist.json is not valid JSON: ' + e.message); process.exit(1); }
 const protectedSites = readJSON('protected.json').sites;
 
+// School Browser's built-in list: builtin.json in this project (or --builtin <config.json>).
 let builtin = [];
 const bi = process.argv.indexOf('--builtin');
-if (bi > 0) { try { builtin = JSON.parse(require('fs').readFileSync(process.argv[bi + 1], 'utf8')).blockedSites || []; } catch (e) { errors.push('could not read built-in list: ' + e.message); } }
+const builtinFile = bi > 0 ? process.argv[bi + 1] : require('path').join(ROOT, 'builtin.json');
+try { builtin = JSON.parse(require('fs').readFileSync(builtinFile, 'utf8')).blockedSites || []; } catch (e) { errors.push('could not read built-in list (' + builtinFile + '): ' + e.message); }
 
 if (list.version !== 1 || !Array.isArray(list.sites)) errors.push('blocklist.json must have "version": 1 and a "sites" array');
 const sites = Array.isArray(list.sites) ? list.sites : [];
