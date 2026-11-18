@@ -1,8 +1,8 @@
-# School Browser — daily AI blocklist
+# Honest Ink — daily AI blocklist
 
-This list is updated automatically every morning (about 5:37 AM Eastern) with new or renamed AI websites. The School Browser Guard extension downloads it every few hours and adds these sites to its built-in blocklist (a backup copy is kept on the Teacher Dashboard's Firebase Hosting).
+This list is updated automatically every morning (about 5:37 AM Eastern) with new or renamed AI websites. The Honest Ink extension downloads it every few hours and adds these sites to its built-in blocklist (a backup copy is kept on the Teacher Dashboard's Firebase Hosting).
 
-- 👩‍🏫 **Teacher Dashboard:** https://school-browser-b7de3.web.app/
+- 👩‍🏫 **Teacher Dashboard:** https://app.honestink.app/
 - 📄 **[Read the daily report](REPORT.md)** — what was added each day and why.
 - 🚫 **Unblock a site:** Teacher Dashboard → Blocked sites → Unblock (takes effect within a minute).
 - 🛡️ Sites in [`protected.json`](protected.json) (Google Docs/Classroom, Microsoft 365/Teams, Clever, Khan Academy, …) can never be added.
