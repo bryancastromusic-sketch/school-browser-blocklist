@@ -2,9 +2,23 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 25
-- **Last updated:** Nov 17, 2026, 5:38 AM Eastern
+- **Sites added so far:** 32
+- **Last updated:** Nov 18, 2026, 5:39 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Wednesday, November 18, 2026
+
+Checked 20 candidates; added 7 quiz/homework solvers, essay generators and a web proxy; skipped TextCortex, Vappingo, EssayPro (general writing/editing services), HideMyAss and hide.me (VPN companies), Proxy.org (couldn't confirm it still runs), AnyAnswer, Answerly and CanvasNinja (browser extensions with no confirmed website), and QuestionAI (already built in).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `answersai.com` | AI homework helper | AnswersAI 'Snap & Solve': photograph a homework problem and get the answer |
+| `getquizsolve.com` | AI homework helper | Site for 'AI Quiz Solve', an extension that answers Canvas/Moodle/Blackboard quiz questions |
+| `quizsolve.vercel.app` | AI homework helper | Web version of AI Quiz Solve, an AI quiz-answer tool for Canvas and Moodle |
+| `cheatly.vercel.app` | AI homework helper | 'Cheatly' Canvas quiz solver: AI tool that gives answers to Canvas quiz questions |
+| `freeessaywriter.ai` | AI writing tool | Free no-signup AI essay generator: enter a topic and get a full essay |
+| `notegpt.io/ai-essay-writer` | AI writing tool | NoteGPT's AI essay generator page (rest of NoteGPT not blocked) |
+| `kproxy.com` | Filter bypass / proxy | KProxy: free web proxy commonly used to get around school filters |
 
 ## Tuesday, November 17, 2026
 

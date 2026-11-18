@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17T10:38:58Z",
+  "updated": "2026-11-18T10:39:21Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -150,6 +150,48 @@
       "site": "proxysite.com",
       "reason": "ProxySite: free web proxy widely promoted for getting around school filters",
       "added": "2026-11-17",
+      "category": "filter-bypass"
+    },
+    {
+      "site": "answersai.com",
+      "reason": "AnswersAI 'Snap & Solve': photograph a homework problem and get the answer",
+      "added": "2026-11-18",
+      "category": "ai-homework"
+    },
+    {
+      "site": "getquizsolve.com",
+      "reason": "Site for 'AI Quiz Solve', an extension that answers Canvas/Moodle/Blackboard quiz questions",
+      "added": "2026-11-18",
+      "category": "ai-homework"
+    },
+    {
+      "site": "quizsolve.vercel.app",
+      "reason": "Web version of AI Quiz Solve, an AI quiz-answer tool for Canvas and Moodle",
+      "added": "2026-11-18",
+      "category": "ai-homework"
+    },
+    {
+      "site": "cheatly.vercel.app",
+      "reason": "'Cheatly' Canvas quiz solver: AI tool that gives answers to Canvas quiz questions",
+      "added": "2026-11-18",
+      "category": "ai-homework"
+    },
+    {
+      "site": "freeessaywriter.ai",
+      "reason": "Free no-signup AI essay generator: enter a topic and get a full essay",
+      "added": "2026-11-18",
+      "category": "ai-writing"
+    },
+    {
+      "site": "notegpt.io/ai-essay-writer",
+      "reason": "NoteGPT's AI essay generator page (rest of NoteGPT not blocked)",
+      "added": "2026-11-18",
+      "category": "ai-writing"
+    },
+    {
+      "site": "kproxy.com",
+      "reason": "KProxy: free web proxy commonly used to get around school filters",
+      "added": "2026-11-18",
       "category": "filter-bypass"
     }
   ]
