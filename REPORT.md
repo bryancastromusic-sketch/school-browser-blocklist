@@ -2,9 +2,22 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 32
-- **Last updated:** Nov 18, 2026, 5:39 AM Eastern
+- **Sites added so far:** 38
+- **Last updated:** Nov 19, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Thursday, November 19, 2026
+
+Checked 18 candidates; added 2 no-login ChatGPT sites, 2 humanizers and the Mathos AI math solver (2 addresses); skipped notebook.google.com (possible new address for NotebookLM/Gemini Notebook, reported only by one blog - teacher may want to check), Wolfram Alpha (general math site), GPTUnlimited, ChatGPTXOnline, Humanize Max, GPThumanizer (couldn't confirm domain), and Symbolab, Photomath, Undetectable AI (already built in).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `overchat.ai` | AI chatbot | Overchat: free ChatGPT/Claude/Gemini chat site with no login needed |
+| `anonchatgpt.com` | AI chatbot | AnonChatGPT: use ChatGPT anonymously with no account |
+| `cleverhumanizer.ai` | AI "humanizer" | Clever AI Humanizer: free tool that rewrites AI text to get past AI detectors |
+| `texttohuman.com` | AI "humanizer" | TextToHuman: free, no-signup AI humanizer that rewrites AI text to look human-written |
+| `mathos.ai` | AI homework helper | Mathos AI (formerly MathGPT Pro): AI math solver, solves problems from photos or PDFs |
+| `mathgptpro.com` | AI homework helper | MathGPT Pro, the older name and address of the Mathos AI math solver |
 
 ## Wednesday, November 18, 2026
 

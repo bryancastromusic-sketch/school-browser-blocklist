@@ -14,6 +14,11 @@
       "date": "2026-11-18",
       "added": 7,
       "note": "Checked 20 candidates; added 7 quiz/homework solvers, essay generators and a web proxy; skipped TextCortex, Vappingo, EssayPro (general writing/editing services), HideMyAss and hide.me (VPN companies), Proxy.org (couldn't confirm it still runs), AnyAnswer, Answerly and CanvasNinja (browser extensions with no confirmed website), and QuestionAI (already built in)."
+    },
+    {
+      "date": "2026-11-19",
+      "added": 6,
+      "note": "Checked 18 candidates; added 2 no-login ChatGPT sites, 2 humanizers and the Mathos AI math solver (2 addresses); skipped notebook.google.com (possible new address for NotebookLM/Gemini Notebook, reported only by one blog - teacher may want to check), Wolfram Alpha (general math site), GPTUnlimited, ChatGPTXOnline, Humanize Max, GPThumanizer (couldn't confirm domain), and Symbolab, Photomath, Undetectable AI (already built in)."
     }
   ]
 }

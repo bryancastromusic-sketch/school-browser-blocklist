@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-18T10:39:21Z",
+  "updated": "2026-11-19T10:38:43Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -193,6 +193,42 @@
       "reason": "KProxy: free web proxy commonly used to get around school filters",
       "added": "2026-11-18",
       "category": "filter-bypass"
+    },
+    {
+      "site": "overchat.ai",
+      "reason": "Overchat: free ChatGPT/Claude/Gemini chat site with no login needed",
+      "added": "2026-11-19",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "anonchatgpt.com",
+      "reason": "AnonChatGPT: use ChatGPT anonymously with no account",
+      "added": "2026-11-19",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "cleverhumanizer.ai",
+      "reason": "Clever AI Humanizer: free tool that rewrites AI text to get past AI detectors",
+      "added": "2026-11-19",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "texttohuman.com",
+      "reason": "TextToHuman: free, no-signup AI humanizer that rewrites AI text to look human-written",
+      "added": "2026-11-19",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "mathos.ai",
+      "reason": "Mathos AI (formerly MathGPT Pro): AI math solver, solves problems from photos or PDFs",
+      "added": "2026-11-19",
+      "category": "ai-homework"
+    },
+    {
+      "site": "mathgptpro.com",
+      "reason": "MathGPT Pro, the older name and address of the Mathos AI math solver",
+      "added": "2026-11-19",
+      "category": "ai-homework"
     }
   ]
 }
