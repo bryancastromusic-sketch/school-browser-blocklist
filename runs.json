@@ -19,6 +19,11 @@
       "date": "2026-11-19",
       "added": 6,
       "note": "Checked 18 candidates; added 2 no-login ChatGPT sites, 2 humanizers and the Mathos AI math solver (2 addresses); skipped notebook.google.com (possible new address for NotebookLM/Gemini Notebook, reported only by one blog - teacher may want to check), Wolfram Alpha (general math site), GPTUnlimited, ChatGPTXOnline, Humanize Max, GPThumanizer (couldn't confirm domain), and Symbolab, Photomath, Undetectable AI (already built in)."
+    },
+    {
+      "date": "2026-11-20",
+      "added": 2,
+      "note": "Checked 14 candidates; added the PaperTyper essay writer and the Homeworkify Chegg-answer site; skipped Wiingy, Khan Academy, Wolfram Alpha (tutoring/learning sites), papertyper.ai and other Homeworkify addresses (couldn't confirm they work), small App Store-only solver apps (no website), and Chegg, Brainly, StudyX, Gauth, Socratic, Photomath (already built in). No new chatbot launches found."
     }
   ]
 }

@@ -2,9 +2,18 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 38
-- **Last updated:** Nov 19, 2026, 5:38 AM Eastern
+- **Sites added so far:** 40
+- **Last updated:** Nov 20, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Friday, November 20, 2026
+
+Checked 14 candidates; added the PaperTyper essay writer and the Homeworkify Chegg-answer site; skipped Wiingy, Khan Academy, Wolfram Alpha (tutoring/learning sites), papertyper.ai and other Homeworkify addresses (couldn't confirm they work), small App Store-only solver apps (no website), and Chegg, Brainly, StudyX, Gauth, Socratic, Photomath (already built in). No new chatbot launches found.
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `papertyper.net` | AI writing tool | PaperTyper: AI essay writer that generates academic papers and research essays |
+| `homeworkify.it.com` | Homework-answer site | Homeworkify: site that 'unblurs' Chegg answers so students can copy them for free |
 
 ## Thursday, November 19, 2026
 

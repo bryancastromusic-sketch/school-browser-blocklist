@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19T10:38:43Z",
+  "updated": "2026-11-20T10:38:58Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -229,6 +229,18 @@
       "reason": "MathGPT Pro, the older name and address of the Mathos AI math solver",
       "added": "2026-11-19",
       "category": "ai-homework"
+    },
+    {
+      "site": "papertyper.net",
+      "reason": "PaperTyper: AI essay writer that generates academic papers and research essays",
+      "added": "2026-11-20",
+      "category": "ai-writing"
+    },
+    {
+      "site": "homeworkify.it.com",
+      "reason": "Homeworkify: site that 'unblurs' Chegg answers so students can copy them for free",
+      "added": "2026-11-20",
+      "category": "homework-answers"
     }
   ]
 }
