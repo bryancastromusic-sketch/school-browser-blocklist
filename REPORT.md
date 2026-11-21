@@ -2,9 +2,18 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 40
-- **Last updated:** Nov 20, 2026, 5:38 AM Eastern
+- **Sites added so far:** 42
+- **Last updated:** Nov 21, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Saturday, November 21, 2026
+
+Checked 13 candidates; added the GPTHumanizer humanizer and the StudyMonkey homework helper; skipped Mistral 'Vibe' (renamed Le Chat, same address, already built in), GenZWrite, AceHumanizer, TrueHumanizer, Rephrase Lab, Paper Humanizer, humanizerfree, RehumanizeText, Sentencify and GPThumanizer.io (couldn't confirm domain or purpose), and Gauth, Brainly (already built in).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `gpthumanizer.ai` | AI "humanizer" | GPTHumanizer: free, no-signup tool that turns AI text into 'undetectable' human-sounding writing |
+| `studymonkey.ai` | AI homework helper | StudyMonkey: AI homework helper; type or photograph a question and get the answer, plus an essay writer |
 
 ## Friday, November 20, 2026
 

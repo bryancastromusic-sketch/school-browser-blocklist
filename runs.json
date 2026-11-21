@@ -24,6 +24,11 @@
       "date": "2026-11-20",
       "added": 2,
       "note": "Checked 14 candidates; added the PaperTyper essay writer and the Homeworkify Chegg-answer site; skipped Wiingy, Khan Academy, Wolfram Alpha (tutoring/learning sites), papertyper.ai and other Homeworkify addresses (couldn't confirm they work), small App Store-only solver apps (no website), and Chegg, Brainly, StudyX, Gauth, Socratic, Photomath (already built in). No new chatbot launches found."
+    },
+    {
+      "date": "2026-11-21",
+      "added": 2,
+      "note": "Checked 13 candidates; added the GPTHumanizer humanizer and the StudyMonkey homework helper; skipped Mistral 'Vibe' (renamed Le Chat, same address, already built in), GenZWrite, AceHumanizer, TrueHumanizer, Rephrase Lab, Paper Humanizer, humanizerfree, RehumanizeText, Sentencify and GPThumanizer.io (couldn't confirm domain or purpose), and Gauth, Brainly (already built in)."
     }
   ]
 }

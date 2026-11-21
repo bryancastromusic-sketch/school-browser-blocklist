@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T10:38:58Z",
+  "updated": "2026-11-21T10:38:33Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -241,6 +241,18 @@
       "reason": "Homeworkify: site that 'unblurs' Chegg answers so students can copy them for free",
       "added": "2026-11-20",
       "category": "homework-answers"
+    },
+    {
+      "site": "gpthumanizer.ai",
+      "reason": "GPTHumanizer: free, no-signup tool that turns AI text into 'undetectable' human-sounding writing",
+      "added": "2026-11-21",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "studymonkey.ai",
+      "reason": "StudyMonkey: AI homework helper; type or photograph a question and get the answer, plus an essay writer",
+      "added": "2026-11-21",
+      "category": "ai-homework"
     }
   ]
 }
