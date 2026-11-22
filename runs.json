@@ -29,6 +29,11 @@
       "date": "2026-11-21",
       "added": 2,
       "note": "Checked 13 candidates; added the GPTHumanizer humanizer and the StudyMonkey homework helper; skipped Mistral 'Vibe' (renamed Le Chat, same address, already built in), GenZWrite, AceHumanizer, TrueHumanizer, Rephrase Lab, Paper Humanizer, humanizerfree, RehumanizeText, Sentencify and GPThumanizer.io (couldn't confirm domain or purpose), and Gauth, Brainly (already built in)."
+    },
+    {
+      "date": "2026-11-22",
+      "added": 4,
+      "note": "Checked 15 candidates; added Meta's Muse agent (muse.ai), Genspark, PerfectEssayWriter and Scholarly's lab report writer page; skipped pdfFiller, Gamma, WPS, OpenEduCat (general document/learning tools), Lab Report Studio, LabWorks, Instinct (couldn't confirm domain), Google Forms quiz-solver extensions (no website), and OpenAI dots and Mistral Vibe (run on already-blocked sites)."
     }
   ]
 }

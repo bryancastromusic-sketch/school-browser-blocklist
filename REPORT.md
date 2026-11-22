@@ -2,9 +2,20 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 42
-- **Last updated:** Nov 21, 2026, 5:38 AM Eastern
+- **Sites added so far:** 46
+- **Last updated:** Nov 22, 2026, 5:39 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Sunday, November 22, 2026
+
+Checked 15 candidates; added Meta's Muse agent (muse.ai), Genspark, PerfectEssayWriter and Scholarly's lab report writer page; skipped pdfFiller, Gamma, WPS, OpenEduCat (general document/learning tools), Lab Report Studio, LabWorks, Instinct (couldn't confirm domain), Google Forms quiz-solver extensions (no website), and OpenAI dots and Mistral Vibe (run on already-blocked sites).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `muse.ai` | AI chatbot | Meta's 'Muse' AI agent (launched Sept 2026); the old muse.ai video service is now called Skiv |
+| `genspark.ai` | AI chatbot | Genspark 'Super Agent': AI assistant that writes docs, reports and slides on request |
+| `perfectessaywriter.ai` | AI writing tool | PerfectEssayWriter.ai: AI essay writer with outliner, thesis generator and paraphraser |
+| `scholarly.so/tools/lab-report-writer` | AI writing tool | Scholarly's AI lab report writer page (rest of the site not blocked) |
 
 ## Saturday, November 21, 2026
 

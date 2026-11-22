@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21T10:38:33Z",
+  "updated": "2026-11-22T10:39:49Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -253,6 +253,30 @@
       "reason": "StudyMonkey: AI homework helper; type or photograph a question and get the answer, plus an essay writer",
       "added": "2026-11-21",
       "category": "ai-homework"
+    },
+    {
+      "site": "muse.ai",
+      "reason": "Meta's 'Muse' AI agent (launched Sept 2026); the old muse.ai video service is now called Skiv",
+      "added": "2026-11-22",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "genspark.ai",
+      "reason": "Genspark 'Super Agent': AI assistant that writes docs, reports and slides on request",
+      "added": "2026-11-22",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "perfectessaywriter.ai",
+      "reason": "PerfectEssayWriter.ai: AI essay writer with outliner, thesis generator and paraphraser",
+      "added": "2026-11-22",
+      "category": "ai-writing"
+    },
+    {
+      "site": "scholarly.so/tools/lab-report-writer",
+      "reason": "Scholarly's AI lab report writer page (rest of the site not blocked)",
+      "added": "2026-11-22",
+      "category": "ai-writing"
     }
   ]
 }
