@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-22T10:39:49Z",
+  "updated": "2026-11-23T10:38:22Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -277,6 +277,48 @@
       "reason": "Scholarly's AI lab report writer page (rest of the site not blocked)",
       "added": "2026-11-22",
       "category": "ai-writing"
+    },
+    {
+      "site": "typefloai.com",
+      "reason": "TypeFlo AI: essay writer plus 'auto typer' that types AI text like a student to fool detectors",
+      "added": "2026-11-23",
+      "category": "ai-writing"
+    },
+    {
+      "site": "homeworko.com",
+      "reason": "Homeworko: AI homework solver (type or photograph a question) with an essay writer, no account needed",
+      "added": "2026-11-23",
+      "category": "ai-homework"
+    },
+    {
+      "site": "aihomeworkhelper.com",
+      "reason": "AIHomeworkHelper.com: AI tool that gives answers to homework questions in any subject",
+      "added": "2026-11-23",
+      "category": "ai-homework"
+    },
+    {
+      "site": "sparkian.com",
+      "reason": "Sparkian (formerly Geekflare Chat): AI chat workspace with many AI models",
+      "added": "2026-11-23",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "ai.com",
+      "reason": "AI.com: address that redirects to an AI chatbot (currently DeepSeek)",
+      "added": "2026-11-23",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "polybuzz.ai",
+      "reason": "PolyBuzz: AI character chatbot site (like Character.AI)",
+      "added": "2026-11-23",
+      "category": "ai-chatbot"
+    },
+    {
+      "site": "chai.ai",
+      "reason": "CHAI: AI chatbot app and site for chatting with AI characters",
+      "added": "2026-11-23",
+      "category": "ai-chatbot"
     }
   ]
 }

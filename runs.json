@@ -34,6 +34,11 @@
       "date": "2026-11-22",
       "added": 4,
       "note": "Checked 15 candidates; added Meta's Muse agent (muse.ai), Genspark, PerfectEssayWriter and Scholarly's lab report writer page; skipped pdfFiller, Gamma, WPS, OpenEduCat (general document/learning tools), Lab Report Studio, LabWorks, Instinct (couldn't confirm domain), Google Forms quiz-solver extensions (no website), and OpenAI dots and Mistral Vibe (run on already-blocked sites)."
+    },
+    {
+      "date": "2026-11-23",
+      "added": 7,
+      "note": "Checked 16 candidates; added the TypeFlo essay writer/auto-typer, 2 homework solvers, Sparkian (renamed Geekflare Chat), AI.com, PolyBuzz and CHAI; skipped Turbo AI, Chatty and polybuzz.com (couldn't confirm what or where they are), geekflare.com/ai/chat (old address, may now redirect), App Store-only science solver apps (no website), and duck.ai and chat.com (already blocked)."
     }
   ]
 }

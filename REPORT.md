@@ -2,9 +2,23 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 46
-- **Last updated:** Nov 22, 2026, 5:39 AM Eastern
+- **Sites added so far:** 53
+- **Last updated:** Nov 23, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Monday, November 23, 2026
+
+Checked 16 candidates; added the TypeFlo essay writer/auto-typer, 2 homework solvers, Sparkian (renamed Geekflare Chat), AI.com, PolyBuzz and CHAI; skipped Turbo AI, Chatty and polybuzz.com (couldn't confirm what or where they are), geekflare.com/ai/chat (old address, may now redirect), App Store-only science solver apps (no website), and duck.ai and chat.com (already blocked).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `typefloai.com` | AI writing tool | TypeFlo AI: essay writer plus 'auto typer' that types AI text like a student to fool detectors |
+| `homeworko.com` | AI homework helper | Homeworko: AI homework solver (type or photograph a question) with an essay writer, no account needed |
+| `aihomeworkhelper.com` | AI homework helper | AIHomeworkHelper.com: AI tool that gives answers to homework questions in any subject |
+| `sparkian.com` | AI chatbot | Sparkian (formerly Geekflare Chat): AI chat workspace with many AI models |
+| `ai.com` | AI chatbot | AI.com: address that redirects to an AI chatbot (currently DeepSeek) |
+| `polybuzz.ai` | AI chatbot | PolyBuzz: AI character chatbot site (like Character.AI) |
+| `chai.ai` | AI chatbot | CHAI: AI chatbot app and site for chatting with AI characters |
 
 ## Sunday, November 22, 2026
 
