@@ -39,6 +39,11 @@
       "date": "2026-11-23",
       "added": 7,
       "note": "Checked 16 candidates; added the TypeFlo essay writer/auto-typer, 2 homework solvers, Sparkian (renamed Geekflare Chat), AI.com, PolyBuzz and CHAI; skipped Turbo AI, Chatty and polybuzz.com (couldn't confirm what or where they are), geekflare.com/ai/chat (old address, may now redirect), App Store-only science solver apps (no website), and duck.ai and chat.com (already blocked)."
+    },
+    {
+      "date": "2026-11-24",
+      "added": 2,
+      "note": "Checked 12 candidates; added 2 'auto typer' tools that fake typing history in Google Docs (Duey.ai, Dripwriter); skipped Einstein by Companion.AI (Canvas homework agent, reportedly discontinued, domain unconfirmed), Writo, Write It AI, Docs Dripper, SynthTyper, GhostWriter, TypeOS (browser extensions with no confirmed website), America.gov (government chatbot), and Undetectable AI's auto typer (already built in)."
     }
   ]
 }

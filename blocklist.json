@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23T10:38:22Z",
+  "updated": "2026-11-24T10:38:50Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -319,6 +319,18 @@
       "reason": "CHAI: AI chatbot app and site for chatting with AI characters",
       "added": "2026-11-23",
       "category": "ai-chatbot"
+    },
+    {
+      "site": "duey.ai",
+      "reason": "Duey.ai: AI humanizer plus 'auto typer' that types AI text into Google Docs so it looks hand-typed",
+      "added": "2026-11-24",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "dripwriter.org",
+      "reason": "Dripwriter: auto-typer that drips AI text into Google Docs with pauses to fake a human version history",
+      "added": "2026-11-24",
+      "category": "ai-humanizer"
     }
   ]
 }

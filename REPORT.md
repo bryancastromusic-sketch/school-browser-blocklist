@@ -2,9 +2,18 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 53
-- **Last updated:** Nov 23, 2026, 5:38 AM Eastern
+- **Sites added so far:** 55
+- **Last updated:** Nov 24, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Tuesday, November 24, 2026
+
+Checked 12 candidates; added 2 'auto typer' tools that fake typing history in Google Docs (Duey.ai, Dripwriter); skipped Einstein by Companion.AI (Canvas homework agent, reportedly discontinued, domain unconfirmed), Writo, Write It AI, Docs Dripper, SynthTyper, GhostWriter, TypeOS (browser extensions with no confirmed website), America.gov (government chatbot), and Undetectable AI's auto typer (already built in).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `duey.ai` | AI "humanizer" | Duey.ai: AI humanizer plus 'auto typer' that types AI text into Google Docs so it looks hand-typed |
+| `dripwriter.org` | AI "humanizer" | Dripwriter: auto-typer that drips AI text into Google Docs with pauses to fake a human version history |
 
 ## Monday, November 23, 2026
 
