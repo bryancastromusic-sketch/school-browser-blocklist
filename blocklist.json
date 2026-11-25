@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-24T10:38:50Z",
+  "updated": "2026-11-25T10:38:18Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -330,6 +330,24 @@
       "site": "dripwriter.org",
       "reason": "Dripwriter: auto-typer that drips AI text into Google Docs with pauses to fake a human version history",
       "added": "2026-11-24",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "aithor.com",
+      "reason": "Aithor: 'undetectable' AI essay writer with outline maker and paper wizard, plus an AI humanizer",
+      "added": "2026-11-25",
+      "category": "ai-writing"
+    },
+    {
+      "site": "twaingpt.com",
+      "reason": "TwainGPT: AI humanizer advertised to get AI text past Turnitin, GPTZero and ZeroGPT",
+      "added": "2026-11-25",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "humaniser.ai",
+      "reason": "Humaniser.ai: free tool that rewrites AI-generated text to look human-written",
+      "added": "2026-11-25",
       "category": "ai-humanizer"
     }
   ]

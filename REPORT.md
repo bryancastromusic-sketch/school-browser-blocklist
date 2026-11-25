@@ -2,9 +2,19 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 55
-- **Last updated:** Nov 24, 2026, 5:38 AM Eastern
+- **Sites added so far:** 58
+- **Last updated:** Nov 25, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Wednesday, November 25, 2026
+
+Checked 14 candidates; added the Aithor essay writer and 2 humanizers (TwainGPT, Humaniser.ai); skipped Gamma, Canva, Prezi, Slidesgo, SlidesAI, Visme (general presentation makers), Humalingo, SuperHumanizer, LegitWrite, Bypass Engine, SafeNew (couldn't confirm domain), and the UK GOV.UK chatbot (government service). No new chatbot launches found.
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `aithor.com` | AI writing tool | Aithor: 'undetectable' AI essay writer with outline maker and paper wizard, plus an AI humanizer |
+| `twaingpt.com` | AI "humanizer" | TwainGPT: AI humanizer advertised to get AI text past Turnitin, GPTZero and ZeroGPT |
+| `humaniser.ai` | AI "humanizer" | Humaniser.ai: free tool that rewrites AI-generated text to look human-written |
 
 ## Tuesday, November 24, 2026
 

@@ -44,6 +44,11 @@
       "date": "2026-11-24",
       "added": 2,
       "note": "Checked 12 candidates; added 2 'auto typer' tools that fake typing history in Google Docs (Duey.ai, Dripwriter); skipped Einstein by Companion.AI (Canvas homework agent, reportedly discontinued, domain unconfirmed), Writo, Write It AI, Docs Dripper, SynthTyper, GhostWriter, TypeOS (browser extensions with no confirmed website), America.gov (government chatbot), and Undetectable AI's auto typer (already built in)."
+    },
+    {
+      "date": "2026-11-25",
+      "added": 3,
+      "note": "Checked 14 candidates; added the Aithor essay writer and 2 humanizers (TwainGPT, Humaniser.ai); skipped Gamma, Canva, Prezi, Slidesgo, SlidesAI, Visme (general presentation makers), Humalingo, SuperHumanizer, LegitWrite, Bypass Engine, SafeNew (couldn't confirm domain), and the UK GOV.UK chatbot (government service). No new chatbot launches found."
     }
   ]
 }
