@@ -2,9 +2,19 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 58
-- **Last updated:** Nov 25, 2026, 5:38 AM Eastern
+- **Sites added so far:** 61
+- **Last updated:** Nov 26, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Thursday, November 26, 2026
+
+Checked 15 candidates; added 2 humanizers (Grubby AI, Rephrasy) and NoteGPT's math solver page; skipped HumanizeAI.co (couldn't confirm domain owner), Scribbr (citation/learning site), QuickMath, Microsoft Math Solver, WPS, UPDF, SoftOrbits, IObit (general math/software sites), App Store-only humanizer apps, and Typeflo and Dripwriter (already on the list).
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `grubby.ai` | AI "humanizer" | Grubby AI: humanizer (and autotyper) promoted to students on TikTok to make AI essays look human-written |
+| `rephrasy.ai` | AI "humanizer" | Rephrasy: AI humanizer marketed to get AI text past Turnitin and Copyleaks |
+| `notegpt.io/ai-math-solver` | AI homework helper | NoteGPT's AI math solver page (rest of NoteGPT not blocked) |
 
 ## Wednesday, November 25, 2026
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25T10:38:18Z",
+  "updated": "2026-11-26T10:38:33Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -349,6 +349,24 @@
       "reason": "Humaniser.ai: free tool that rewrites AI-generated text to look human-written",
       "added": "2026-11-25",
       "category": "ai-humanizer"
+    },
+    {
+      "site": "grubby.ai",
+      "reason": "Grubby AI: humanizer (and autotyper) promoted to students on TikTok to make AI essays look human-written",
+      "added": "2026-11-26",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "rephrasy.ai",
+      "reason": "Rephrasy: AI humanizer marketed to get AI text past Turnitin and Copyleaks",
+      "added": "2026-11-26",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "notegpt.io/ai-math-solver",
+      "reason": "NoteGPT's AI math solver page (rest of NoteGPT not blocked)",
+      "added": "2026-11-26",
+      "category": "ai-homework"
     }
   ]
 }
