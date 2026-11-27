@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26T10:38:33Z",
+  "updated": "2026-11-27T10:38:32Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -366,6 +366,24 @@
       "site": "notegpt.io/ai-math-solver",
       "reason": "NoteGPT's AI math solver page (rest of NoteGPT not blocked)",
       "added": "2026-11-26",
+      "category": "ai-homework"
+    },
+    {
+      "site": "essaytone.vercel.app",
+      "reason": "EssayTone: AI-to-human tool marketed to students for getting essays past Turnitin and GPTZero",
+      "added": "2026-11-27",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "essayhumanizer.io",
+      "reason": "Essay Humanizer: tool that rewrites AI-written essays to avoid AI detection",
+      "added": "2026-11-27",
+      "category": "ai-humanizer"
+    },
+    {
+      "site": "studdy.ai",
+      "reason": "Studdy: AI homework solver; scan a math or science problem and get the worked answer",
+      "added": "2026-11-27",
       "category": "ai-homework"
     }
   ]

@@ -2,9 +2,19 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 61
-- **Last updated:** Nov 26, 2026, 5:38 AM Eastern
+- **Sites added so far:** 64
+- **Last updated:** Nov 27, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Friday, November 27, 2026
+
+Checked 12 candidates; added 2 essay humanizers (EssayTone, Essay Humanizer) and the Studdy homework solver; skipped Turbo AI (note-taking/study app), Grammarly, ProWritingAid, MagicSchool (general writing/teacher tools), EssayDone (couldn't confirm domain), Black Friday deal aggregator sites, and QuillBot, Jasper, Undetectable AI (already built in). No new chatbot launches found.
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `essaytone.vercel.app` | AI "humanizer" | EssayTone: AI-to-human tool marketed to students for getting essays past Turnitin and GPTZero |
+| `essayhumanizer.io` | AI "humanizer" | Essay Humanizer: tool that rewrites AI-written essays to avoid AI detection |
+| `studdy.ai` | AI homework helper | Studdy: AI homework solver; scan a math or science problem and get the worked answer |
 
 ## Thursday, November 26, 2026
 
