@@ -2,9 +2,21 @@
 
 Every morning an automated check looks for new or renamed AI websites and adds them to School Browser's blocklist. This page shows what was added and why.
 
-- **Sites added so far:** 64
-- **Last updated:** Nov 27, 2026, 5:38 AM Eastern
+- **Sites added so far:** 69
+- **Last updated:** Nov 28, 2026, 5:38 AM Eastern
 - **To unblock a site:** open the Teacher Dashboard → 🚫 Blocked sites → Unblock. Unblocking takes effect on students' browsers within a minute.
+
+## Saturday, November 28, 2026
+
+Checked 17 candidates; added 4 AI essay writers (EduWriter, WriteMyEssay.ai, Essay-Builder, Olovka) and the Cramly homework helper; skipped EssayAI.ai, HomeworkAI.ai, EzSolve, SmartSolve, Solvo, Feen, aipaperwriter.org (couldn't confirm what they do), Wabi (messenger app), Paperpal (writing assistant), and Z.ai, Gauth, Mathway, Symbolab (already built in). No new chatbot launches found.
+
+| Site | Type | Why it was blocked |
+|---|---|---|
+| `eduwriter.ai` | AI writing tool | EduWriter.ai: free AI essay writer with paraphraser, thesis and topic generators |
+| `writemyessay.ai` | AI writing tool | WriteMyEssay.ai: AI tool that generates formatted essays with citations |
+| `essay-builder.ai` | AI writing tool | Essay-Builder.ai: AI tool that generates structured essays quickly |
+| `olovka.ai` | AI writing tool | Olovka: AI essay and paper writer (essays, theses, case studies, literature reviews) |
+| `cramly.ai` | AI homework helper | Cramly: AI essay writer and homework helper that solves multiple-choice and math questions |
 
 ## Friday, November 27, 2026
 

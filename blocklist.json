@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-27T10:38:32Z",
+  "updated": "2026-11-28T10:38:21Z",
   "sites": [
     {
       "site": "writehuman.ai",
@@ -384,6 +384,36 @@
       "site": "studdy.ai",
       "reason": "Studdy: AI homework solver; scan a math or science problem and get the worked answer",
       "added": "2026-11-27",
+      "category": "ai-homework"
+    },
+    {
+      "site": "eduwriter.ai",
+      "reason": "EduWriter.ai: free AI essay writer with paraphraser, thesis and topic generators",
+      "added": "2026-11-28",
+      "category": "ai-writing"
+    },
+    {
+      "site": "writemyessay.ai",
+      "reason": "WriteMyEssay.ai: AI tool that generates formatted essays with citations",
+      "added": "2026-11-28",
+      "category": "ai-writing"
+    },
+    {
+      "site": "essay-builder.ai",
+      "reason": "Essay-Builder.ai: AI tool that generates structured essays quickly",
+      "added": "2026-11-28",
+      "category": "ai-writing"
+    },
+    {
+      "site": "olovka.ai",
+      "reason": "Olovka: AI essay and paper writer (essays, theses, case studies, literature reviews)",
+      "added": "2026-11-28",
+      "category": "ai-writing"
+    },
+    {
+      "site": "cramly.ai",
+      "reason": "Cramly: AI essay writer and homework helper that solves multiple-choice and math questions",
+      "added": "2026-11-28",
       "category": "ai-homework"
     }
   ]
